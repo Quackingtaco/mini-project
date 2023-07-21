@@ -1,0 +1,15 @@
+header {
+    background-color: green;
+    
+}
+
+footer {
+    background-color: aqua;
+    width: auto;
+    height: 100px;
+    text-align: bottom;
+}
+
+h1, h2 {
+    text-align: center;
+}
